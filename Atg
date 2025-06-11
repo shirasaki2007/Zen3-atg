@@ -1,0 +1,5 @@
+lua
+Token = ""
+Webhook = ""
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/gagautojoiner/refs/heads/main/autojoiner"))()
+```
